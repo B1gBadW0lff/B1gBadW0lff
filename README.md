@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/hero.png" alt="Krish — Digital Creative Lead, Kuwait" width="100%">
+</p>
 
-<!--
-**B1gBadW0lff/B1gBadW0lff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/about.png" alt="I lead digital content across design, film, photography and social media — from concept and shoot through to edit and publishing. I also design AI production systems." width="100%">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/B1gBadW0lff/blender-toolbox"><img src="assets/work.png" alt="Selected work: 01 Blender Toolbox. More work in progress." width="100%"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="assets/band.png" alt="Concept — Craft — Systems" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/contact.png" alt="Open to selected projects. Kuwait, available remotely." width="100%">
+</p>
